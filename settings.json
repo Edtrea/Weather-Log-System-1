@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "sstream": "cpp",
+        "stdexcept": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "compare": "cpp",
+        "memory_resource": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "fstream": "cpp"
+    }
+}
